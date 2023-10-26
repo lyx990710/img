@@ -1,0 +1,69 @@
+{
+  "applyStationList": [
+    "333177"
+  ],
+  "beginDate": "2023-09-18T00:00:00.585Z",
+  "disableReason": "",
+  "enableDate": "",
+  "enableUserCode": "",
+  "endDate": "2023-09-19T23:59:59.585Z",
+  "originCode": "PVG",
+  "originName": "PUDONG",
+  "pricingStationCode": "333177",
+  "routeAddFormList": [
+    {
+      "airlineList": [
+        "PVG"
+      ],
+      "cargoTypeCode": "1",
+      "destCode": "AMS",
+      "destName": "AMSTERDAM",
+      "innerRemark": "innerRemark",
+      "originCode": "PVG",
+      "originName": "PUDONG",
+      "outRemark": "outRemark",
+      "rateMainAddFormList": [
+        {
+          "chargeType": "string",
+          "chargeUnit": "string",
+          "currencyCode": "string",
+          "fifthPrice": 0,
+          "firstPrice": 0,
+          "fourthPrice": 0,
+          "lastPrice": 0,
+          "minPrice": 0,
+          "routeNo": "string",
+          "secondaryPrice": 0,
+          "templateCode": "string",
+          "thirdPrice": 0,
+          "weightVolumeEnd": 0,
+          "weightVolumeStart": 0
+        }
+      ],
+      "rateMainAdditionalAddFormList": [
+        {
+          "additionalType": "string",
+          "chargeCode": "string",
+          "chargeType": "string",
+          "chargeUnit": "string",
+          "currencyCode": "string",
+          "isDisplay": "string",
+          "minPrice": 0,
+          "price": 0,
+          "routeNo": "string",
+          "templateCode": "string"
+        }
+      ],
+      "routeNo": "string",
+      "templateCode": "string",
+      "transCode1": "string",
+      "transCode2": "string",
+      "transName1": "string",
+      "transName2": "string",
+      "truckingLineCode": "string"
+    }
+  ],
+  "templateName": "string",
+  "versionNo": 1,
+  "serviceTypeCode": "MAIN_CARRIAGE"
+}
